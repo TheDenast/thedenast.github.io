@@ -273,8 +273,10 @@ ul {
 	margin-top: 30px;
 }
 	.profile_picture{
-		width: 210px;
-		height: 240px;
+		max-width: 210px;
+		max-height: 240px;
+		width: auto;
+		height: auto;
 		margin:10px;
 	}
 
