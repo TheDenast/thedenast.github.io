@@ -91,14 +91,14 @@
 /* Main tags */
 
 body {
-	background: #121212;
+	background: #282A36;
 	margin: 0;
 }
 
-h1,h2,h3, h4 {
+h1,h2,h3,h4 {
 	font-family: 'Lato', Helvetica, sans-serif;
 	font-weight: 300;
-	color: #48DA9B;
+	color: #BD93F9;
 }
 	h1 {
 		font-size: 48px;
@@ -431,8 +431,8 @@ ul {
 }
 
 .project {
-    background-color: #15412e; /* Light grey background */
-    border: 1px solid #ddd; /* Light border for each project */
+    background-color: #44475A; /* Light grey background */
+    border: 1px solid #6272A4; /* Light border for each project */
     padding: 15px;
     margin-bottom: 15px;
     border-radius: 5px; /* Slightly rounded corners */
@@ -450,7 +450,7 @@ ul {
 }
 
 .project strong {
-    color: #48da52; /* Bold project titles */
+    color: #6272A4; /* Bold project titles */
 }
 
 .project-link {
